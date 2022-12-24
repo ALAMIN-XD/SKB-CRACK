@@ -1304,7 +1304,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrTALHA-cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://pastebin.com/u/Team_SKB").text
+	r1=requests.get("https://pastebin.com/u/mr_limon").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
