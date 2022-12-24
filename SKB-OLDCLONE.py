@@ -1301,7 +1301,7 @@ class Main:
 
 
 def Subscraption():
-	key1=open('/data/data/com.termux/files/usr/bin/.TeamSKB-cov', 'r').read()
+	key1=open('/data/data/com.termux/files/usr/bin/.mrTALHA-cov', 'r').read()
 	clear()
 	print(logo)
 	r1=requests.get("https://pastebin.com/u/Team_SKB").text
